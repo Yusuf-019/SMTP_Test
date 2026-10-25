@@ -7,7 +7,7 @@ namespace SMTP_Test
     internal class Program
     {
         static string fromMail = "yusufcaf8775@gmail.com";
-        static string password = "indc basr mvbm pqyx";
+        static string password = "";
 
         static void Main(string[] args)
         {
